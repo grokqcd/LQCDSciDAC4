@@ -1,2 +1,2 @@
 # LQCDSciDAC4
-Website for the LQCD SciDAC-4 project
+Website for the US Dept. of Energy ASCR/NP LQCD SciDAC-4 project
